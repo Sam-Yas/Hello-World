@@ -1,4 +1,4 @@
 # Hello-World
-My first repository
-Now file edited.
-日本語書ける?
+最初のrepository
+日本語書けるかどうか
+書いてみた。
