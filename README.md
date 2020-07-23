@@ -1,4 +1,4 @@
 # Hello-World
 最初のrepository
-日本語書けるかどうか
+どうだろうか
 書いてみた。
